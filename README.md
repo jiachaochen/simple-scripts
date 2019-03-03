@@ -1,2 +1,2 @@
 # simple-shell-scripts
-A collection of useful shell scripts
+Simple scripts written by python and shell.
